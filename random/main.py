@@ -1,5 +1,3 @@
-from calendar import c
-from itertools import count
 import random
 cpu=random.randint(0,11);
 count=0
